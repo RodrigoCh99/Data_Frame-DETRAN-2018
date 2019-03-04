@@ -1,4 +1,4 @@
-# Data_Frame-DETRAN-2018-
+# Data_Frame-DETRAN-2018
 Um pequeno projeto de análise dos dados disponibilizados pelo DETRAN referentes ao segundo semestre de 2018
 
 ## Etapas do Projeto:
