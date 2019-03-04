@@ -31,5 +31,5 @@ Um pequeno projeto de análise dos dados disponibilizados pelo DETRAN referentes
 #### 3.1 Treinamento do Modelo 
 #### 3.2 Plotagem residual
 #### 3.3 Visualização em Plot 
-#### 3.4 Tste do Modelo
+#### 3.4 Teste do Modelo
 
