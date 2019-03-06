@@ -5,11 +5,11 @@ Um pequeno projeto de análise dos dados disponibilizados pelo DETRAN referentes
 
 ### 1 Tratamento de dados: Padronização dos dados e eliminação de dados missing ou sem utilidade
 
-#### 1.1 coluna: codigo_infracao
-#### 1.2 coluna: tipo_inrator
-#### 1.3 coluna: tipo_veiculo
-#### 1.4 coluna: data_cometimento
-#### 1.5 coluna: hora_cometimento
+  #### 1.1 coluna: codigo_infracao
+  #### 1.2 coluna: tipo_inrator
+  #### 1.3 coluna: tipo_veiculo
+  #### 1.4 coluna: data_cometimento
+  #### 1.5 coluna: hora_cometimento
 
 ### 2 Visualização de dados: exploração de maneira visual (com gráficos ou não) de diversas corelações entre os dados previamente tratados
 
